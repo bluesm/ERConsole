@@ -1,0 +1,8 @@
+c:\users\pawel\documents\visual studio 2012\Projects\ERConsole\ERConsole\bin\Debug\ERConsole.exe.config
+c:\users\pawel\documents\visual studio 2012\Projects\ERConsole\ERConsole\obj\Debug\ERConsole.csprojResolveAssemblyReference.cache
+c:\users\pawel\documents\visual studio 2012\Projects\ERConsole\ERConsole\obj\Debug\ERConsole.Language.resources
+c:\users\pawel\documents\visual studio 2012\Projects\ERConsole\ERConsole\obj\Debug\ERConsole.csproj.GenerateResource.Cache
+c:\users\pawel\documents\visual studio 2012\Projects\ERConsole\ERConsole\bin\Debug\ERConsole.exe
+c:\users\pawel\documents\visual studio 2012\Projects\ERConsole\ERConsole\bin\Debug\ERConsole.pdb
+c:\users\pawel\documents\visual studio 2012\Projects\ERConsole\ERConsole\obj\Debug\ERConsole.exe
+c:\users\pawel\documents\visual studio 2012\Projects\ERConsole\ERConsole\obj\Debug\ERConsole.pdb
