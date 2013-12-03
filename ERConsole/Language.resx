@@ -117,11 +117,29 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="actions" xml:space="preserve">
+    <value>Actions</value>
+  </data>
+  <data name="add_class" xml:space="preserve">
+    <value>Add class</value>
+  </data>
+  <data name="admit_student" xml:space="preserve">
+    <value>Admit Student</value>
+  </data>
+  <data name="all_teachers_by_name" xml:space="preserve">
+    <value>Show all teachers by first name</value>
+  </data>
+  <data name="classs_id" xml:space="preserve">
+    <value>Class's ID :</value>
+  </data>
   <data name="execute" xml:space="preserve">
     <value>Execute</value>
   </data>
   <data name="generate_students" xml:space="preserve">
     <value>Generate Students</value>
+  </data>
+  <data name="generate_students_teachers_and_classes" xml:space="preserve">
+    <value>Generate Students, Teachers and Classes</value>
   </data>
   <data name="generate_teachers" xml:space="preserve">
     <value>Generate teachers</value>
@@ -129,13 +147,64 @@
   <data name="generate_teachers_and_students" xml:space="preserve">
     <value>Generate Teachers and Students</value>
   </data>
+  <data name="hire_teacher" xml:space="preserve">
+    <value>Hire teacher</value>
+  </data>
+  <data name="lay_off_student" xml:space="preserve">
+    <value>Lay off student</value>
+  </data>
+  <data name="lay_off_teacher" xml:space="preserve">
+    <value>Lay off teacher</value>
+  </data>
+  <data name="not_int" xml:space="preserve">
+    <value>That wasn't int pass again : </value>
+  </data>
   <data name="pass_amount_of_students" xml:space="preserve">
     <value>Pass amount of students you want to add: </value>
   </data>
   <data name="pass_amount_of_teachers" xml:space="preserve">
     <value>Pass amount of teachers you want to add: </value>
   </data>
+  <data name="pass_regex" xml:space="preserve">
+    <value>Pass regex</value>
+  </data>
+  <data name="pass_the_id_of_teacher_you_want_to_lay_off" xml:space="preserve">
+    <value>Pass the ID of teacher you want to lay off</value>
+  </data>
+  <data name="pass_the_name_of_teacher" xml:space="preserve">
+    <value>Pass the name of the teacher</value>
+  </data>
+  <data name="pass_the_secondname_of_teacher" xml:space="preserve">
+    <value>Pass the second name of the teacher</value>
+  </data>
+  <data name="remove_class" xml:space="preserve">
+    <value>Remove class</value>
+  </data>
+  <data name="show" xml:space="preserve">
+    <value>Show</value>
+  </data>
+  <data name="show_all_teachers_matching_regex" xml:space="preserve">
+    <value>Show all teachers matching regex</value>
+  </data>
+  <data name="students" xml:space="preserve">
+    <value>Students</value>
+  </data>
+  <data name="students_id" xml:space="preserve">
+    <value>Student's ID : </value>
+  </data>
+  <data name="teachers" xml:space="preserve">
+    <value>Teachers</value>
+  </data>
+  <data name="teachers_id" xml:space="preserve">
+    <value>Teacher's ID :</value>
+  </data>
   <data name="welcome_message" xml:space="preserve">
     <value>Welcome in Electronic Register (without grades)</value>
+  </data>
+  <data name="wrong_input_message" xml:space="preserve">
+    <value>Something wrong with your input, try again!</value>
+  </data>
+  <data name="_class" xml:space="preserve">
+    <value>Class</value>
   </data>
 </root>

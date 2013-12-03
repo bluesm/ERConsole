@@ -9,9 +9,9 @@ namespace ERConsole
     abstract class Person
     {
         static int IDCount = 0;
-        int    ID;
-        String firstName;
-        String secondName;
+        public int    ID;
+        public String firstName;
+        public String secondName;
 
         String fullName
         {

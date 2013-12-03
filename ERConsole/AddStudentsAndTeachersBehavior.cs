@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ERConsole
 {
+/*
     class AddStudentsAndTeachersBehavior
     {
         public void generateStudents(School school)
@@ -22,4 +23,5 @@ namespace ERConsole
             school.toDoQueue.Add(delegate() { school.generateTeachers(amount); });
         }
     }
+ */
 }

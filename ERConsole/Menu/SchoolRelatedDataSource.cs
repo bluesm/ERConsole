@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ERConsole
 {
-    class SchoolRelatedDataSource : MenuElementDataSource
+    /*class SchoolRelatedDataSource : MenuElementDataSource
     {
         protected School school;
 
@@ -15,6 +15,7 @@ namespace ERConsole
         {
             this.school = school;
         }
-
+    
     }
+    */
 }

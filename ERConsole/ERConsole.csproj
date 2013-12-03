@@ -46,9 +46,10 @@
     <Compile Include="Class.cs" />
     <Compile Include="AddStudentsAndTeachersDataSource.cs" />
     <Compile Include="Menu\IMenuDataSource.cs" />
+    <Compile Include="Menu\MenuCollectionController.cs" />
     <Compile Include="Menu\MainMenuDataSource.cs" />
-    <Compile Include="Menu\MenuElementDataSource.cs" />
-    <Compile Include="MenuElementUserInterface.cs" />
+    <Compile Include="Menu\MenuCollection.cs" />
+    <Compile Include="Menu\MenuItem.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -57,17 +58,14 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Language.resx</DependentUpon>
     </Compile>
-    <Compile Include="School.cs" />
+    <Compile Include="School\SchoolModel.cs" />
     <Compile Include="Menu\SchoolRelatedDataSource.cs" />
+    <Compile Include="School\SchoolController.cs" />
     <Compile Include="Student.cs" />
     <Compile Include="Teacher.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="names.txt" />
-    <Content Include="surnames.txt" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Language.resx">

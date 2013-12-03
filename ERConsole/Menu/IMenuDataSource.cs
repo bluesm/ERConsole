@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ERConsole.Menu;
 
 namespace ERConsole
 {
@@ -10,6 +11,6 @@ namespace ERConsole
     {
         int    getCount               ();
         string getOptionDescription   (int position);
-        void   executeAction          (int position);
+        MenuItem getMenuItem(int position);
     }
 }
